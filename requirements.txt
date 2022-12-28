@@ -1,0 +1,7 @@
+jupyter==1.0.0
+numpy<1.23.0
+tensorflow==2.10.0
+tensorflow-datasets==4.8.0
+tensorflow-recommenders==0.7.2
+tfx==1.11.0
+apache-beam==2.43.0
