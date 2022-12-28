@@ -5,7 +5,7 @@ Dockerized Tensorflow-Recommenders examples
 
 ## To run:
 
-docker-compose up --build
+- docker-compose up --build
 
 - go to: http://localhost:8888/
 
