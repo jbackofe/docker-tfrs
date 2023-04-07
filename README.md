@@ -7,6 +7,6 @@ Dockerized Tensorflow-Recommenders examples
 
 - docker-compose up --build
 
-- go to: http://localhost:8888/
+- go to: http://localhost:10000/
 
 - copy/paste token from console
